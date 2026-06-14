@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Geejamol Gladus 👋
 
-<!--
-**geejamolg-crypto/geejamolg-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML learner with an M.Tech in Computer Science, based in Abu Dhabi, UAE.
 
-Here are some ideas to get you started:
+I'm building practical deep learning projects focused on **healthcare** and **education** — domains where I believe AI can create real, meaningful impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working with
+- **ML / DL:** PyTorch, scikit-learn, HuggingFace Transformers
+- **GenAI & LLMs:** LangChain, RAG pipelines, prompt engineering
+- **NLP:** text classification, embeddings, fine-tuning
+- **Deployment:** FastAPI, Streamlit, Docker, MLflow
+- **Language:** Python
+
+
+
+## Background
+M.Tech & B.Tech in Computer Science (Calicut University) · 1 year university teaching experience · data analysis background · returning to tech with a focus on applied AI.
+
+ Abu Dhabi, UAE &nbsp;|&nbsp; 📧 geejamolg@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/geejamolgladus-512825225)
